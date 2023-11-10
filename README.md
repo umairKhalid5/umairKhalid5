@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Umair Khalid**.
-I'm a **_front-end developer_** from Pakistan.
+### I'm a **_Front-End Developer_** from Pakistan.
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
 ### Portfolio:
