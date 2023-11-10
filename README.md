@@ -1,9 +1,9 @@
 # 👋 Hi, I’m **Umair Khalid**.
-> I'm a _front-end developer_ from Pakistan.
+>I'm a _front-end developer_ from Pakistan.
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
 ### Portfolio:
-[My Website](https://umairdev.netlify.app/)
+[See Portfolio](https://umairdev.netlify.app/)
 ### Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umair-khalid-dev1/)
 <!---
