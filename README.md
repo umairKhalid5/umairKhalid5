@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Umair Khalid**.
 ###  💻 A **_Front-End Web Developer_**.
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
 ## Portfolio:
 ### 👉 [See Portfolio](https://umairdev.netlify.app/)
 ## Socials:
